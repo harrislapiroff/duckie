@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Harris Lapiroff <harris@chromamine.com>",
-  "description": "A simple helpful robot for your Company",
+  "description": "Quack quack BEEEEEEP",
   "dependencies": {
     "hubot-help": "^0.1.1",
     "hubot-diagnostics": "0.0.1",
